@@ -1,4 +1,4 @@
-# HR Management System
+# Laravel&Vue HR Manager
 All-in-one Single-Page-Application to manage employee attendance, leaves, payrolls,
 and organize your organization's branches and departments.
 
